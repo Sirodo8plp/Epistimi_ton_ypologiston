@@ -1,4 +1,4 @@
-#n0=number 0 , n1=number 1 etc. etc.
+
 
 def zero():
     return 0
